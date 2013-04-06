@@ -8,8 +8,9 @@ Command line tool for managing encrypted snippets.
 Usage
 ------------
 
-    $ spm
+run script::
 
+    $ spm
 
 LICENSE
 ------------
